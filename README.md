@@ -27,5 +27,5 @@ Usage
 
 Scope/RoadMap
 
-- Use premium version of WeatherStack allows the users to fetch historical and time period specific data.
-- Use the weather data stored in ElasticServer for visualizations
+- Use premium version of WeatherStack which allows the users to fetch historical and time period specific data.
+- Use the weather data stored in ElasticServer for visualizations.
